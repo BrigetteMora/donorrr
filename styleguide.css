@@ -10,6 +10,7 @@
   --second-text-color: #727272;
   --text-color: #252b42;
  
+<<<<<<< HEAD
   --font-size-l: 20px;
   --font-size-m: 14px;
   --font-size-xl: 40px;
@@ -20,6 +21,19 @@
 }
 .link {
   font-family: var(--font-family-montserrat);
+=======
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-montserrat-bold: "Montserrat-Bold", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.link {
+  font-family: var(--font-family-montserrat-bold);
+>>>>>>> be8d9b1c9523ad05068f815a9419efcc71c7d03d
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
@@ -29,7 +43,11 @@
 .roboto-normal-ebony-clay-20px {
   color: var(--dark-background-color);
   font-family: var(--font-family-roboto);
+<<<<<<< HEAD
   font-size: var(--font-size-l);
+=======
+  font-size: var(--font-size-xl);
+>>>>>>> be8d9b1c9523ad05068f815a9419efcc71c7d03d
   font-style: normal;
   font-weight: 400;
 }
@@ -37,7 +55,45 @@
 .roboto-normal-ebony-clay-40px {
   color: var(--dark-background-color);
   font-family: var(--font-family-roboto);
+<<<<<<< HEAD
+=======
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-mine-shaft-48px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-sonic-silver-20px {
+  color: var(--second-text-color);
+  font-family: var(--font-family-roboto);
+>>>>>>> be8d9b1c9523ad05068f815a9419efcc71c7d03d
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
+<<<<<<< HEAD
+=======
+
+.roboto-normal-white-40px {
+  color: var(--light-background-color);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-14px {
+  color: var(--light-background-color);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+>>>>>>> be8d9b1c9523ad05068f815a9419efcc71c7d03d

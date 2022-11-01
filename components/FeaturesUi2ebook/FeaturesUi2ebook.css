@@ -1,0 +1,101 @@
+.features-ui-2ebook {
+  background-color: var(--light-background-color);
+  border: 1px none;
+  height: 501px;
+  min-width: 1440px;
+}
+
+.overlap-group4 {
+  height: 454px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group3 {
+  height: 454px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.vote-1 {
+  height: 280px;
+  left: 865px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 575px;
+}
+
+.swap-for-tokens {
+  height: 280px;
+  left: 441px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 498px;
+}
+
+.leave-your-account-w {
+  height: 316px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 492px;
+}
+
+.container-2 {
+  border: 1px none;
+  height: 358px;
+  left: 71px;
+  position: absolute;
+  top: 0;
+  width: 341px;
+}
+
+.h2-section-title-1 {
+  left: 150px;
+  letter-spacing: 0.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 404px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.h2-section-title-2 {
+  left: 609px;
+  letter-spacing: 0.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 404px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.h2-section-title-3 {
+  left: 1009px;
+  letter-spacing: 0.20px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 404px;
+  white-space: nowrap;
+}
+
+.h2-section-title-4 {
+  left: 548px;
+  letter-spacing: 0.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.features-ui-2ebook.features-ui-2ebook-1 {
+  height: 532px;
+}
+

@@ -1,0 +1,12 @@
+.button {
+  height: 38px;
+  left: 287px;
+  position: absolute;
+  top: 0;
+}
+
+.button.button-1 {
+  left: 0;
+  top: 392px;
+}
+
