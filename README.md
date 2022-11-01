@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Anima exported react code
 
 This package was generated automatically with [Anima App](https://www.animaapp.com).
@@ -29,4 +27,3 @@ npm run build
 Edit README and replace `myorg` and `myrepo` for one-click deploy
 
 [![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/myorg/myrepo)
->>>>>>> be8d9b1c9523ad05068f815a9419efcc71c7d03d
